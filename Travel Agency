@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+     <style>
+        
+        h1 {color: rgb(130, 99, 34);}
+        body {background-color: rgb(230, 201, 168);}
+        p {color: rgb(71, 59, 31);}
+        h2 {color:rgb(135, 112, 64);}
+        .first_thing{background:rgb(204, 143, 0);}
+        h3{color:rgb(130, 118, 102);}
+    </style>
+    </head>
+    <body>
+        <h1>CapuccinoExpress: Travel Agency</h1>
+        <p class="first_thing">Having struggle to choose where to travel? <strong> We can help with that</strong>.</p>
+        <h2>Where to travel</h2>
+        <p>Many people wonder where they can go on holiday, and for <em>many</em> reasons as well. "<em>Oh, honey I want to go to a beach-like place!"</em>, then <em>"But darling, I want to go to a forest-like place!"</em>. It happens <strong>all</strong>the time.</p>
+    <p>Here we have some <strong>dream-like </strong>places that might be the solution to <em>that</em> kind of problems.</p> <ul>
+        <li>Santorini, Greece</li>
+        <li>Banff & Moraine Lake, Canada</li>
+        <li>Lapland, Finland</li>
+    </ul>
+    <h3>Santorini, Greece</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Santorini_Montage_L.png/500px-Santorini_Montage_L.png" alt="Santorini, Greece" width="220">
+    <p>This is a wonderful, dream-like place, it has Whitewashed buildings, blue domes, cliffside views over a deep blue caldera. </p>
+    <h3>Banff & Moraine Lake, Canada</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/1280px-Moraine_Lake_17092005.jpg" alt="Banff & Moraine Lake, Canada" width="220">
+    <ol><li>Turquoise lakes</li>
+        <li>towering snow-capped peaks</li>
+        <li>untouched alpine forests</li></ol><p>Those are both the top 3 best things a dream-like place should have, and top 3 best things <strong>Moraine Lake</strong> have.</p> <h3>Lapland, Finland</h3><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Arctic_circle_santa_village.jpg" alt="Lapland, Finland" width="220"> <p>A winter wonderland of snow-covered forests, reindeer, the northern lights, and glass igloos where you can watch the aurora from bed.</p>
+        <p>-</p>
+        <p>We hope you liked our selection of places to visit this holidays. See you! </p>
+    
+    </body>
+</html>
